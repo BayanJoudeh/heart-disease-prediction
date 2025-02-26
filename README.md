@@ -3,6 +3,7 @@ Heart Disease Prediction using Machine Learning & Streamlit
 This project leverages machine learning to predict heart disease based on patient health parameters. It includes data preprocessing, exploratory data analysis, model training, and an interactive Streamlit web app for user-friendly predictions.
 
 Features
+
 ✅ Data Preprocessing (handling missing values, feature scaling)
 
 ✅ Machine Learning Models (Logistic Regression, Decision Tree, SVM)
