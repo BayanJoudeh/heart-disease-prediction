@@ -36,8 +36,8 @@ Features
    
 **Future Improvements**
 
+- Hyperparameter tuning for better accuracy  
+- Deploying the Streamlit app online  
+- Exploring deep learning models for improved prediction  
 
-   -Hyperparameter tuning for better accuracy
-   -Deploying the Streamlit app onlin
-   -Exploring deep learning models for improved prediction
 
