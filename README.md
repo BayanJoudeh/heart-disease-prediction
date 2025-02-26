@@ -27,16 +27,16 @@ Features
 **Model Performance**
 
 
-   Logistic Regression:    85% accuracy
-   SVM :     0.86% accuracy
-   Decision Tree:         0.81% accuracy
+      Logistic Regression:    85% accuracy
+      SVM :     0.86% accuracy
+      Decision Tree:         0.81% accuracy
 
 
 
    
 **Future Improvements**
 
-   Hyperparameter tuning for better accuracy
-   Deploying the Streamlit app onlin
-   Exploring deep learning models for improved prediction
+   .Hyperparameter tuning for better accuracy
+   .Deploying the Streamlit app onlin
+   .Exploring deep learning models for improved prediction
 
