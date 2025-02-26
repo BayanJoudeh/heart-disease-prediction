@@ -14,13 +14,16 @@ Features
 
 🏋️‍♂️ Train the Model
 
-   python heart_disease_prediction.py
+      python heart_disease_prediction.py
    
 🎛️ Run the Streamlit App
 
-   streamlit run app.py
+     streamlit run app.py
+
+
 
 Model Performance
+
    Logistic Regression: 85% accuracy
    SVM : 0.86% accuracy
    Decision Tree:0.81% accuracy
