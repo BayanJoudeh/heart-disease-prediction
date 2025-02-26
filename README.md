@@ -22,6 +22,8 @@ Features
 
 
 
+
+
 **Model Performance**
 
 
@@ -29,8 +31,10 @@ Features
    SVM :     0.86% accuracy
    Decision Tree:         0.81% accuracy
 
+
+
    
-Future Improvements
+**Future Improvements**
 
    Hyperparameter tuning for better accuracy
    Deploying the Streamlit app onlin
