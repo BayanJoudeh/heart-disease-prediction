@@ -22,7 +22,8 @@ Features
 
 
 
-Model Performance
+**Model Performance**
+
 
    Logistic Regression:    85% accuracy
    SVM :     0.86% accuracy
