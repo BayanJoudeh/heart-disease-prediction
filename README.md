@@ -4,8 +4,11 @@ This project leverages machine learning to predict heart disease based on patien
 
 Features
 ✅ Data Preprocessing (handling missing values, feature scaling)
+
 ✅ Machine Learning Models (Logistic Regression, Decision Tree, SVM)
+
 ✅ Model Evaluation (Accuracy, Precision, Recall, F1-score)
+
 ✅ Interactive Web App using Streamlit
 
 🏋️‍♂️ Train the Model
