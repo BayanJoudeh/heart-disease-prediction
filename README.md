@@ -24,9 +24,9 @@ Features
 
 Model Performance
 
-   Logistic Regression: 85% accuracy
-   SVM : 0.86% accuracy
-   Decision Tree:0.81% accuracy
+   Logistic Regression:    85% accuracy
+   SVM :     0.86% accuracy
+   Decision Tree:         0.81% accuracy
 
    
 Future Improvements
