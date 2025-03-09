@@ -20,7 +20,7 @@ Features
 
      streamlit run app.py
 
-🔗 **Live App:** [Heart Disease Prediction]((https://heart-disease-prediction-2025.streamlit.app/))
+🔗 **Live App:** [Heart Disease Prediction](https://heart-disease-prediction-2025.streamlit.app/)
 
 
 
