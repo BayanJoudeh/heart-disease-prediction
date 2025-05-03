@@ -39,6 +39,9 @@ Features
 
 - Hyperparameter tuning for better accuracy  
 - Deploying the Streamlit app online  
-- Exploring deep learning models for improved prediction  
+- Exploring deep learning models for improved prediction
+
+- ![streamlit](https://github.com/user-attachments/assets/d957c840-7aab-4070-b1cb-4fa5409b7d51)
+
 
 
